@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14735" started-at="2016-10-20T08:51:17Z" finished-at="2016-10-20T08:51:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14735" started-at="2016-10-20T08:51:17Z" finished-at="2016-10-20T08:51:32Z">
+      <class name="ua.pp.krotov.TestIntegration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ua.pp.krotov.TestIntegration@6f7fd0e6]" name="setUp" is-config="true" duration-ms="7648" started-at="2016-10-20T11:51:17Z" finished-at="2016-10-20T11:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gotoSeleniumPage()[pri:0, instance:ua.pp.krotov.TestIntegration@6f7fd0e6]" name="gotoSeleniumPage" duration-ms="6493" started-at="2016-10-20T11:51:24Z" finished-at="2016-10-20T11:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoSeleniumPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ua.pp.krotov.TestIntegration@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="585" started-at="2016-10-20T11:51:31Z" finished-at="2016-10-20T11:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ua.pp.krotov.TestIntegration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
